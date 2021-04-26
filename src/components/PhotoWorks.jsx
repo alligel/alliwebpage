@@ -15,7 +15,7 @@ export default function PhotoWorks(){
           <Carousel.Item>
               <img
                 className="d-block w-100"
-                src={window.location.origin + "/PhotoWorks/IMG_1224.jpg"}
+                src={process.env.PUBLIC_URL + '/PhotoWorks/IMG_1224.jpg'}
                 alt="First slide"
               />
             </Carousel.Item>
