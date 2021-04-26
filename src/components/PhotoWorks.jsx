@@ -1,5 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
+import {IMG_1224, IMG_1225, IMG_1226, IMG_1227, IMG_1231} from "../PhotoWorks";
 
 export default function PhotoWorks(){
   return (
@@ -15,7 +16,7 @@ export default function PhotoWorks(){
           <Carousel.Item>
               <img
                 className="d-block w-100"
-                src={process.env.PUBLIC_URL + '/PhotoWorks/IMG_1224.jpg'}
+                src={IMG_1224}
                 alt="First slide"
               />
             </Carousel.Item>
