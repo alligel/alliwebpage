@@ -1,6 +1,5 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
-import {IMG_1224, IMG_1225, IMG_1226, IMG_1227, IMG_1231} from "../PhotoWorks";
 
 export default function PhotoWorks(){
   return (
@@ -16,7 +15,7 @@ export default function PhotoWorks(){
           <Carousel.Item>
               <img
                 className="d-block w-100"
-                src={IMG_1224}
+                src="assets/IMG_1224"
                 alt="First slide"
               />
             </Carousel.Item>
@@ -24,7 +23,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="PhotoWorks/IMG_1225.jpg"
+                src="assets/IMG_1225.jpg"
                 alt="Second slide"
               />
             </Carousel.Item>
@@ -32,7 +31,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="PhotoWorks/IMG_1226.jpg"
+                src="assets/IMG_1226.jpg"
                 alt="Third slide"
               />
             </Carousel.Item>
@@ -40,7 +39,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100 photo-img"
-                src="PhotoWorks/IMG_1227.jpg"
+                src="assets/IMG_1227.jpg"
                 alt="Fourth slide"
               />
             </Carousel.Item>
@@ -48,7 +47,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100 photo-img"
-                src="PhotoWorks/IMG_1231.jpg"
+                src="assets/IMG_1231.jpg"
                 alt="Sixth slide"
               />
             </Carousel.Item>
