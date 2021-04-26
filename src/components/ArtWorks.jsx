@@ -1,14 +1,4 @@
 import React from "react";
-import A01 from "./image/A01.jpg";
-import A02 from "./image/A02.jpg";
-import A03 from "./image/A03.jpg";
-import A14 from "./image/A14.jpg";
-import A07 from "./image/A07.jpg";
-import A09 from "./image/A09.jpg";
-import A11 from "./image/A11.jpg";
-import A12 from "./image/A12.jpg";
-import A13 from "./image/A13.jpg";
-import A05 from "./image/A05.jpg";
 
 export default function ArtWorks(){
   return (
@@ -18,7 +8,7 @@ export default function ArtWorks(){
             <div className="row">
               <div className="column">
                 <div className="content">
-                  <img className="works-img" src={A01} alt="alli-artwork"/>
+                  <img className="works-img" src="images/A01.jpg" alt="alli-artwork"/>
                 </div>
               </div>
 
