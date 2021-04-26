@@ -15,7 +15,7 @@ export default function PhotoWorks(){
           <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/PhotoWorks/IMG_1224.jpg"
+                src="./PhotoWorks/IMG_1224.jpg"
                 alt="First slide"
               />
             </Carousel.Item>
@@ -23,7 +23,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/PhotoWorks/IMG_1225.jpg"
+                src="./PhotoWorks/IMG_1225.jpg"
                 alt="Second slide"
               />
             </Carousel.Item>
@@ -31,7 +31,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/PhotoWorks/IMG_1226.jpg"
+                src="./PhotoWorks/IMG_1226.jpg"
                 alt="Third slide"
               />
             </Carousel.Item>
@@ -39,7 +39,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100 photo-img"
-                src="/PhotoWorks/IMG_1227.jpg"
+                src="./PhotoWorks/IMG_1227.jpg"
                 alt="Fourth slide"
               />
             </Carousel.Item>
@@ -47,7 +47,7 @@ export default function PhotoWorks(){
             <Carousel.Item>
               <img
                 className="d-block w-100 photo-img"
-                src="/PhotoWorks/IMG_1231.jpg"
+                src="./PhotoWorks/IMG_1231.jpg"
                 alt="Sixth slide"
               />
             </Carousel.Item>
