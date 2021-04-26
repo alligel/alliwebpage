@@ -8,7 +8,7 @@ export default function ArtWorks(){
             <div className="row">
               <div className="column">
                 <div className="content">
-                  <img className="works-img" src="ArtWorks/A01.jpg" alt="alli-artwork"/>
+                  <img className="works-img" src={process.env.PUBLIC_URL + "/ArtWorks/A01.jpg"} alt="alli-artwork"/>
                 </div>
               </div>
 
