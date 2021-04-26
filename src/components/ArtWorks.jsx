@@ -8,61 +8,61 @@ export default function ArtWorks(){
             <div className="row">
               <div className="column">
                 <div className="content">
-                  <img className="works-img" src=".../ArtWorks/A01.jpg" alt="alli-artwork"/>
+                  <img className="works-img" src="/ArtWorks/A01.JPG" alt="alli-artwork"/>
                 </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A02.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A02.JPG" alt="alli-artwork"/>
                 </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A03.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A03.JPG" alt="alli-artwork"/>
                 </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A14.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A14.JPG" alt="alli-artwork"/>
                 </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A07.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A07.JPG" alt="alli-artwork"/>
               </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A09.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A09.JPG" alt="alli-artwork"/>
               </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A11.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A11.JPG" alt="alli-artwork"/>
               </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A12.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A12.JPG" alt="alli-artwork"/>
               </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A13.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A13.JPG" alt="alli-artwork"/>
               </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="/ArtWorks/A05.jpg" alt="alli-artwork"/>
+                <img className="works-img" src="/ArtWorks/A05.JPG" alt="alli-artwork"/>
               </div>
               </div>
 
