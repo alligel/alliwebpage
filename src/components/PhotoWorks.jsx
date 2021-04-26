@@ -15,7 +15,7 @@ export default function PhotoWorks(){
           <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="PhotoWorks/IMG_1224.jpg"
+                src={require("PhotoWorks/IMG_1224.jpg")}
                 alt="First slide"
               />
             </Carousel.Item>
