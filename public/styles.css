@@ -28,6 +28,7 @@ h1::before {
   visibility: hidden;
   pointer-events: none;
 }
+
 h2 {
   color: #3d405b;
   font-weight: normal;
@@ -107,7 +108,7 @@ a:link {
   padding: 100px 20px 0px;
   width: 85%;
   left: 50%;
-  top: 65%;
+  top: 70%;
   transform: translate(-50%, -50%);
   background-color: white;
   justify-content: center;
@@ -271,10 +272,12 @@ a:link {
   h1 {
     font-size: 30px !important;
   }
-  h2,
+  h2 {
+    font-size: 20px !important;
+  }
   h3,
   h4 {
-    font-size: 20px !important;
+    font-size: 15px !important;
   }
   .nameText {
     font-size: 30px !important;
@@ -290,9 +293,9 @@ a:link {
     width: 200px;
   }
   .grid-container {
-    margin-top: 2rem;
-    padding: 0px 5px;
+    margin-top: 1rem;
     margin-bottom: 1rem !important;
+    margin: 80px 5px;
   }
   .grid-child {
     font-size: 16px;
@@ -338,5 +341,11 @@ a:link {
   }
   .social-icon {
     font-size: 4rem;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .profilepic {
+    width: 100px;
   }
 }

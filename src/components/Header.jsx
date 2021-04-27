@@ -11,7 +11,6 @@ function Header() {
         <NavBar />
         <h1 className="nameText">Alligel</h1>
     </div>
-{/* About */}
     <div class="about-container">
         <AboutMe />
     </div>
