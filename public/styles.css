@@ -72,6 +72,9 @@ a:link {
 }
 
 /* Navbar */
+.navbar {
+  padding: 0;
+}
 .navbar-brand {
   font-family: "Hammersmith One", sans-serif;
   font-size: 2.5rem;
@@ -283,9 +286,9 @@ a:link {
   }
   /* Aboutme */
   .about-container {
-    width: 90%;
+    width: 80%;
     padding: 2rem 1rem;
-    top: 55%;
+    top: 70%;
   }
   .profilepic {
     width: 200px;
@@ -294,7 +297,6 @@ a:link {
     margin-top: 1rem;
     margin-bottom: 1rem !important;
     margin: 30px 5px !important;
-    
   }
   .grid-child {
     font-size: 16px;
@@ -349,9 +351,15 @@ a:link {
   h4 {
     font-size: 15px !important;
   }
+  /* Aboutme */
   .profilepic {
     width: 100px;
   }
   .grid-container {
-    margin: 10px 5px ;
+    margin: 10px 5px;
+  }
+  .about-container {
+    width: 90%;
+    top: 50%;
+  }
 }
