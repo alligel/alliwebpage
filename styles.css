@@ -90,6 +90,7 @@ a:link {
 .nameText {
   font-family: "Merienda One", cursive, sans-serif;
   font-size: 5.6rem;
+  font-weight: bold;
   position: absolute;
   top: 10%;
   left: 50%;
@@ -103,7 +104,7 @@ a:link {
 
 /* AboutMe Section */
 .about-container {
-  padding: 100px 30px 0px;
+  padding: 100px 20px 0px;
   width: 85%;
   left: 50%;
   top: 65%;
