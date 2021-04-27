@@ -28,6 +28,7 @@ h1::before {
   visibility: hidden;
   pointer-events: none;
 }
+
 h2 {
   color: #3d405b;
   font-weight: normal;
@@ -271,10 +272,12 @@ a:link {
   h1 {
     font-size: 30px !important;
   }
-  h2,
+  h2 {
+    font-size: 20px !important;
+  }
   h3,
   h4 {
-    font-size: 20px !important;
+    font-size: 15px !important;
   }
   .nameText {
     font-size: 30px !important;
@@ -291,8 +294,8 @@ a:link {
   }
   .grid-container {
     margin-top: 1rem;
-    padding: 0px 5px;
     margin-bottom: 1rem !important;
+    margin: 80px 5px;
   }
   .grid-child {
     font-size: 16px;
@@ -338,5 +341,11 @@ a:link {
   }
   .social-icon {
     font-size: 4rem;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .profilepic {
+    width: 100px;
   }
 }
