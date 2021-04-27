@@ -348,9 +348,10 @@ a:link {
   h3,
   h4 {
     font-size: 15px !important;
+  }
   .profilepic {
-    width: 150px;
+    width: 100px;
   }
   .grid-container {
-    margin: 10px 5px !important;
+    margin: 10px 5px ;
 }
