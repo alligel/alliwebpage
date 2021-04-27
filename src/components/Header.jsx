@@ -9,7 +9,7 @@ function Header() {
 <div class="top-container">
     <div>
         <NavBar />
-        <h1 className="nameText">Hello</h1>
+        <h1 className="nameText">Alligel</h1>
     </div>
 {/* About */}
     <div class="about-container">
