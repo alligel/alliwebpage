@@ -10,11 +10,9 @@ export default function AboutMe(){
             <img alt="myprofile" className="profilepic" src={Profileimg}/>
          </div>
          <div>
-            <blockquote>
             <h3>After spending time learning and doing new things,</h3>
             <h3>I found my passion in coding and want to learn more and more!</h3>
             <h3>I wish to become a great web developer one day.</h3>
-            </blockquote>
             <br></br>
             <hr className="hr-style"></hr>
          </div>

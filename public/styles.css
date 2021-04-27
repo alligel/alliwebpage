@@ -352,14 +352,15 @@ a:link {
     font-size: 15px !important;
   }
   /* Aboutme */
+  .about-container {
+    padding: 10px 5px 0px;
+    width: 90%;
+    top: 50%;
+  }
   .profilepic {
     width: 100px;
   }
   .grid-container {
-    margin: 10px 5px;
-  }
-  .about-container {
-    width: 90%;
-    top: 50%;
+    margin: 5px 5px;
   }
 }
