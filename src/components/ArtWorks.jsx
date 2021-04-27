@@ -1,5 +1,5 @@
 import React from "react";
-import A02 from "images/A02.jpg";
+import A02 from "./A02.jpg";
 
 export default function ArtWorks(){
   return (
