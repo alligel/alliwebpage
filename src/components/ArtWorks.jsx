@@ -1,14 +1,14 @@
 import React from "react";
-import A01 from "../images/A01.jpg";
-import A02 from "../images/A02.jpg";
-import A03 from "../images/A03.jpg";
-import A14 from "../images/A14.jpg";
-import A07 from "../images/A07.jpg";
-import A09 from "../images/A09.jpg";
-import A11 from "../images/A11.jpg";
-import A12 from "../images/A12.jpg";
-import A13 from "../images/A13.jpg";
-import A05 from "../images/A05.jpg";
+import A01 from "../assets/A01.jpg";
+import A02 from "../assets/A02.jpg";
+import A03 from "../assets/A03.jpg";
+import A14 from "../assets/A14.jpg";
+import A07 from "../assets/A07.jpg";
+import A09 from "../assets/A09.jpg";
+import A11 from "../assets/A11.jpg";
+import A12 from "../assets/A12.jpg";
+import A13 from "../assets/A13.jpg";
+import A05 from "../assets/A05.jpg";
 
 export default function ArtWorks(){
   return (
