@@ -18,7 +18,7 @@ export default function ArtWorks(){
             <div className="row">
               <div className="column">
                 <div className="content">
-                  <img className="works-img" src={A01} alt="alli-artwork"/>
+                  <img className="works-img" src="./img/A01.jpg" alt="alli-artwork"/>
                 </div>
               </div>
 
