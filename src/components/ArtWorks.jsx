@@ -1,4 +1,5 @@
 import React from "react";
+import A01 from "./img/A01.jpg";
 import A02 from "./img/A02.jpg";
 import A03 from "./img/A03.jpg";
 import A14 from "./img/A14.jpg";
@@ -17,13 +18,13 @@ export default function ArtWorks(){
             <div className="row">
               <div className="column">
                 <div className="content">
-                  <img className="works-img" src="img/A01.jpg" alt="alli-artwork"/>
+                  <img className="works-img" src={A01} alt="alli-artwork"/>
                 </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src="img/A02.jpg" alt="alli-artwork"/>
+                <img className="works-img" src={A02} alt="alli-artwork"/>
                 </div>
               </div>
 
