@@ -1,5 +1,5 @@
 import React from "react";
-import A07 from "./A07.jpg";
+import A07 from "./img/A07.jpg";
 import NavBar from "./NavBar"
 import AboutMe from "./AboutMe"
 
