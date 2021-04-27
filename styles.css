@@ -293,6 +293,8 @@ a:link {
   .grid-container {
     margin-top: 1rem;
     margin-bottom: 1rem !important;
+    margin: 30px 5px !important;
+    
   }
   .grid-child {
     font-size: 16px;
