@@ -272,12 +272,10 @@ a:link {
   h1 {
     font-size: 30px !important;
   }
-  h2 {
-    font-size: 20px !important;
-  }
+  h2,
   h3,
   h4 {
-    font-size: 15px !important;
+    font-size: 20px !important;
   }
   .nameText {
     font-size: 30px !important;
@@ -295,7 +293,7 @@ a:link {
   .grid-container {
     margin-top: 1rem;
     margin-bottom: 1rem !important;
-    margin: 80px 5px;
+    margin: 10px 5px;
   }
   .grid-child {
     font-size: 16px;
@@ -345,6 +343,10 @@ a:link {
 }
 
 @media only screen and (max-width: 700px) {
+  h2,
+  h3,
+  h4 {
+    font-size: 15px !important;
   .profilepic {
     width: 100px;
   }
