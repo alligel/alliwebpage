@@ -293,7 +293,8 @@ a:link {
   .grid-container {
     margin-top: 1rem;
     margin-bottom: 1rem !important;
-    margin: 10px 5px;
+    margin: 30px 5px !important;
+    
   }
   .grid-child {
     font-size: 16px;
@@ -342,12 +343,14 @@ a:link {
   }
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 500px) {
   h2,
   h3,
   h4 {
     font-size: 15px !important;
   .profilepic {
-    width: 100px;
+    width: 150px;
   }
+  .grid-container {
+    margin: 10px 5px !important;
 }
