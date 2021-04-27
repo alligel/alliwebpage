@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/alliwebpage/static/js/main.d8e6bd13.chunk.js",
-    "main.js.map": "/alliwebpage/static/js/main.d8e6bd13.chunk.js.map",
+    "main.js": "/alliwebpage/static/js/main.605f554e.chunk.js",
+    "main.js.map": "/alliwebpage/static/js/main.605f554e.chunk.js.map",
     "runtime-main.js": "/alliwebpage/static/js/runtime-main.acb6d670.js",
     "runtime-main.js.map": "/alliwebpage/static/js/runtime-main.acb6d670.js.map",
     "static/css/2.184f8ef6.chunk.css": "/alliwebpage/static/css/2.184f8ef6.chunk.css",
@@ -10,6 +10,7 @@
     "index.html": "/alliwebpage/index.html",
     "static/css/2.184f8ef6.chunk.css.map": "/alliwebpage/static/css/2.184f8ef6.chunk.css.map",
     "static/js/2.725dd8d6.chunk.js.LICENSE.txt": "/alliwebpage/static/js/2.725dd8d6.chunk.js.LICENSE.txt",
+    "static/media/A01.fb6f6a78.jpg": "/alliwebpage/static/media/A01.fb6f6a78.jpg",
     "static/media/A02.0050e3de.jpg": "/alliwebpage/static/media/A02.0050e3de.jpg",
     "static/media/A03.f8c2c2cd.jpg": "/alliwebpage/static/media/A03.f8c2c2cd.jpg",
     "static/media/A05.7bd37ec0.jpg": "/alliwebpage/static/media/A05.7bd37ec0.jpg",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.acb6d670.js",
     "static/css/2.184f8ef6.chunk.css",
     "static/js/2.725dd8d6.chunk.js",
-    "static/js/main.d8e6bd13.chunk.js"
+    "static/js/main.605f554e.chunk.js"
   ]
 }
