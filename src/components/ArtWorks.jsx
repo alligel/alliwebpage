@@ -1,4 +1,5 @@
 import React from "react";
+import A02 from "images/A02.jpg";
 
 export default function ArtWorks(){
   return (
@@ -8,7 +9,7 @@ export default function ArtWorks(){
             <div className="row">
               <div className="column">
                 <div className="content">
-                  <img className="works-img" src={process.env.PUBLIC_URL + "/images/A01.jpg"} alt="alli-artwork"/>
+                  <img className="works-img" src={process.env.PUBLIC_URL + '/images/A01.jpg'} alt="alli-artwork"/>
                 </div>
               </div>
 
