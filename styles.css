@@ -107,7 +107,7 @@ a:link {
   padding: 100px 20px 0px;
   width: 85%;
   left: 50%;
-  top: 65%;
+  top: 70%;
   transform: translate(-50%, -50%);
   background-color: white;
   justify-content: center;
@@ -290,7 +290,7 @@ a:link {
     width: 200px;
   }
   .grid-container {
-    margin-top: 2rem;
+    margin-top: 1rem;
     padding: 0px 5px;
     margin-bottom: 1rem !important;
   }
