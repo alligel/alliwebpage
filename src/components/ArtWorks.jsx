@@ -17,13 +17,13 @@ export default function ArtWorks(){
             <div className="row">
               <div className="column">
                 <div className="content">
-                  <img className="works-img" src="./img/A01.jpg" alt="alli-artwork"/>
+                  <img className="works-img" src="img/A01.jpg" alt="alli-artwork"/>
                 </div>
               </div>
 
               <div className="column">
                 <div className="content">
-                <img className="works-img" src={A02} alt="alli-artwork"/>
+                <img className="works-img" src="img/A02.jpg" alt="alli-artwork"/>
                 </div>
               </div>
 
