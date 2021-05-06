@@ -3,7 +3,7 @@ import A07 from "./img/A07.jpg";
 import NavBar from "./NavBar"
 import AboutMe from "./AboutMe"
 
-function Header() {
+export default function FirstPage() {
   
   return (
 <div class="top-container">
@@ -19,5 +19,3 @@ function Header() {
 </div>
   );
 }
-
-export default Header;

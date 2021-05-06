@@ -322,20 +322,10 @@ a:link {
     max-width: 150px;
     max-height: 150px;
   }
-  .works-img:hover {
-    transform: scale(3);
-  }
   .white-container2 {
     padding: 0px 20px;
   }
-  /* .carousel-inner {
-    height: 230px;
-  } */
-  /* .d-block {
-    padding-top: 3%;
-    max-width: 300px;
-    max-height: 300px;
-  } */
+
   /* Footer */
   #myVideo {
     width: 85%;

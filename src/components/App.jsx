@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Header from "./Header";
+import FirstPage from "./FirstPage";
 import Footer from "./Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import WhatIDo from "./WhatIDo";
@@ -12,7 +12,7 @@ class App extends Component {
           
             <div>
                 <div>
-                    <Header />
+                    <FirstPage />
                  </div>
                  <div>
                     <WhatIDo />

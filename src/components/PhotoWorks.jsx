@@ -11,9 +11,7 @@ export default function PhotoWorks(){
       <div>
           <div className="text-center">
             <br/>
-            <p>I tended to keep the color of photos as a I see with my eyes.</p>
-            <p>I may adjust them but I'll always not to change the color mood so much.</p>
-            <p>However, I think to myself I have to try new things and I'll do it from now on.</p>
+            <p>I love taking birds and landscape photos as much as I love traveling.</p>
           </div>
           <Carousel fade className="carousel-inner">
 
