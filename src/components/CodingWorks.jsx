@@ -23,6 +23,8 @@ function CodingWorks() {
           <li>DOM</li>
           <li>jQuery</li>
           <li>Git</li>
+          <li>React.js</li>
+          <li>React Hooks</li>
           </ul>
       </div>
         
@@ -44,8 +46,6 @@ function CodingWorks() {
           <li>Mongoose</li>
           <li>Authentication</li>
           <li>Firebase</li>
-          <li>React.js</li>
-          <li>React Hooks</li>
           </ul>
       </div>
 
