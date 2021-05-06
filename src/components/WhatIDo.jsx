@@ -17,7 +17,7 @@ export default function WhatIDo(){
                      <p>Digital painting is always one of my favorite hobbies.
                      To visit my instagram art account <a href="https://www.instagram.com/alli.gather/" target="_blank" rel="noreferrer">here.</a></p>
                      
-                     <p>I've been learning about design and I'm planing to learn about UX/UI as well.</p>
+                     <p>To increase this skill, I'm learning more about design and I'm planing to learn about UX/UI as well.</p>
                      <p><strong>Program: </strong>PS, AI, Affinity Designer, Procreate</p>
                 </div>
                     
