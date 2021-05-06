@@ -7,7 +7,7 @@ function CodingWorks() {
       <div className="text-center">
       <br/>
       <p>Here is an example of my coding work, it's an one of the 
-      challenge from a Bootcamp. <button><a href="https://alligel.github.io/simongame/">click</a></button></p>
+      challenge from a Bootcamp. <button><a href="https://alligel.github.io/simongame/" target="_blank">click</a></button></p>
       <br/>
       <p>Throughout my learning, I've learned things that essential for Front-End and Back-End Web Development.</p>
       <div className="row justify-content-center ">
