@@ -13,11 +13,11 @@ export default function WhatIDo(){
 
                  <div className="col-lg-4 col-md-4 col-sm-6 col-xs-6 whatido-container">
                      <i className="fas fa-paint-brush skill-icon"></i>
-                     <h2>Art</h2>
+                     <h2>Art & Design</h2>
                      <p>Digital painting is always one of my favorite hobbies.
                      To visit my instagram art account <a href="https://www.instagram.com/alli.gather/" target="_blank" rel="noreferrer">here.</a></p>
                      
-                     <p>To increase this skill, I'm learning more about design and I'm planing to learn about UX/UI as well.</p>
+                     <p>To leverage this skill, I'm learning more about design and their tools to achieve knowledge about UX/UI design.</p>
                      <p><strong>Program: </strong>PS, AI, Affinity Designer, Procreate</p>
                 </div>
                     

@@ -39,6 +39,7 @@ export default function AboutMe(){
             <ul>
             <li><p>The Complete 2021 Web Development Bootcamp (Dr. Angela Yu, Udemy)</p></li>
             <li><p>Full Stack Engineer Bootcamp (Codestar)</p></li>
+            <li><p>Introduction to User Experience Design (Georgia Tech, Coursera)</p></li>
             <li><p>Online Marketing Foundation (Microsoft, LinkedIn)</p></li>
             <li><p>Data Science Methodology (IBM, Coursera)</p></li>
 
