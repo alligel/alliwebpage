@@ -4,16 +4,17 @@ body {
 }
 /* splash */
 .splash-bg {
+  margin-top: 10px;
   width: 100%;
   background-size: cover;
 }
-#nameText {
+.nameText {
   color: white;
   font-family: "Hammersmith One", sans-serif;
   font-size: 5.6rem;
   font-weight: bold;
   position: absolute;
-  top: 20%;
+  top: 18%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -286,7 +287,7 @@ a:link {
   h4 {
     font-size: 20px !important;
   }
-  #nameText {
+  .nameText {
     font-size: 30px !important;
     top: 10%;
   }
