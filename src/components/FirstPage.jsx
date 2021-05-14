@@ -7,18 +7,22 @@ import AboutMe from "./AboutMe"
 export default function FirstPage() {
   
   return (
+<div>
+
 <div class="top-container">
     <div>
         <NavBar />
         <h1 className="nameText">Alli</h1>
         <img id="home" alt="splash" className="splash-bg" src={Splash}/>
     </div>
-
+</div>
+<div class="top-container">
     <div className="about-container">
         <AboutMe />
     </div>
         <img alt="foxbg" className="image-bg" src={A07}/>
-    
+</div>
+
 </div>
   );
 }
