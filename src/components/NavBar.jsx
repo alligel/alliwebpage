@@ -6,7 +6,6 @@ export default function NavBar(){
 
     return (
       <React.Fragment>
-      <div className="justify-content-center">
       <Navbar className="navbar py-0" bg="light" expand="sm" variant="light">
       <Navbar.Brand href="#home">Alli</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav"/>
@@ -19,7 +18,6 @@ export default function NavBar(){
       </Nav>
       </Navbar.Collapse>
       </Navbar>
-      </div>
         </React.Fragment>
     );
   }
