@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/alliwebpage/static/js/main.ea4bface.chunk.js",
-    "main.js.map": "/alliwebpage/static/js/main.ea4bface.chunk.js.map",
+    "main.js": "/alliwebpage/static/js/main.075aea9b.chunk.js",
+    "main.js.map": "/alliwebpage/static/js/main.075aea9b.chunk.js.map",
     "runtime-main.js": "/alliwebpage/static/js/runtime-main.acb6d670.js",
     "runtime-main.js.map": "/alliwebpage/static/js/runtime-main.acb6d670.js.map",
     "static/css/2.184f8ef6.chunk.css": "/alliwebpage/static/css/2.184f8ef6.chunk.css",
@@ -26,14 +26,13 @@
     "static/media/IMG_1227.f911cc22.jpg": "/alliwebpage/static/media/IMG_1227.f911cc22.jpg",
     "static/media/IMG_1231.0b27b0f3.jpg": "/alliwebpage/static/media/IMG_1231.0b27b0f3.jpg",
     "static/media/Profileimg.c95de45c.JPG": "/alliwebpage/static/media/Profileimg.c95de45c.JPG",
-    "static/media/Splash.d1e3941f.jpg": "/alliwebpage/static/media/Splash.d1e3941f.jpg",
-    "static/media/SplashwithText.c6906733.jpg": "/alliwebpage/static/media/SplashwithText.c6906733.jpg",
+    "static/media/SplashwithText.37713e1c.jpg": "/alliwebpage/static/media/SplashwithText.37713e1c.jpg",
     "static/media/videowhitebg.cb47456f.mp4": "/alliwebpage/static/media/videowhitebg.cb47456f.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.acb6d670.js",
     "static/css/2.184f8ef6.chunk.css",
     "static/js/2.725dd8d6.chunk.js",
-    "static/js/main.ea4bface.chunk.js"
+    "static/js/main.075aea9b.chunk.js"
   ]
 }
