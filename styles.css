@@ -92,7 +92,7 @@ a:link {
 
 /* Navbar */
 .navbar {
-  padding: 0;
+  text-align: center;
 }
 .navbar-brand {
   font-family: "Hammersmith One", sans-serif;
