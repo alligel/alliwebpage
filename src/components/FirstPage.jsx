@@ -9,12 +9,11 @@ export default function FirstPage() {
   return (
 <div>
 
-<div className="top-container">
+<div>
     <div>
         <NavBar />
     </div>
-    <div>
-        {/* <h1 className="nameText">Alli</h1> */}
+    <div className="splash-container">
         <img id="home" alt="splash" className="splash-bg" src={SplashwithText}/>
     </div>
 </div>
