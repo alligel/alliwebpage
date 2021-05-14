@@ -6,7 +6,7 @@ export default function NavBar(){
 
     return (
       <React.Fragment>
-      <Navbar className="navbar py-0 fixed-top" bg="light" expand="sm" variant="light">
+      <Navbar className="navbar py-0" bg="dark" expand="sm" variant="light">
       <Navbar.Brand href="#home">Alli</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav"/>
       <Navbar.Collapse id="basic-navbar-nav">

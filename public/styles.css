@@ -3,12 +3,18 @@ body {
   font-family: "Roboto", sans-serif;
 }
 /* splash */
+.splash-bg {
+  position: absolute;
+  width: 100%;
+  background-size: cover;
+}
 .nameText {
-  font-family: "Roboto", sans-serif;
+  color: white;
+  font-family: "Hammersmith One", sans-serif;
   font-size: 5.6rem;
   font-weight: bold;
   position: absolute;
-  top: 20%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
