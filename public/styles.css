@@ -1,5 +1,5 @@
 body {
-  margin: 10px;
+  margin: 0px;
   font-family: "Roboto", sans-serif;
 }
 /* splash */
@@ -13,7 +13,7 @@ body {
   font-size: 5.6rem;
   font-weight: bold;
   position: absolute;
-  top: 30%;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
