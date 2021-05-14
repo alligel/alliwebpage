@@ -3,11 +3,8 @@ body {
   font-family: "Roboto", sans-serif;
 }
 /* splash */
-.birdsplash {
-  width: 300px;
-}
-.splashbg {
-  background-color: rgb(25, 25, 25);
+.splash-bg {
+  position: absolute;
 }
 /* body scrollbar */
 body::-webkit-scrollbar {
