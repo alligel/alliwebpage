@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import WhatIDo from "./WhatIDo";
 import Works from "./Works"
+import AboutMe from "./AboutMe";
 
 
 class App extends Component {
@@ -13,6 +14,9 @@ class App extends Component {
             <div>
                 <div>
                     <FirstPage />
+                 </div>
+                 <div>
+                    <AboutMe />
                  </div>
                  <div>
                     <WhatIDo />
