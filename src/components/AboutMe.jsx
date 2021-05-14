@@ -1,20 +1,20 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.css';
 import Profileimg from "./Profileimg.JPG";
-
+import A07 from "./img/A07.jpg";
 
 export default function AboutMe(){
     return (
     <div>
-         {/* profile */}
+      {/* profile */}
          <div>
             <h1  id="aboutme">About Me</h1>
             <img alt="myprofile" className="profilepic" src={Profileimg}/>
          </div>
          <div>
-            <h3>After spending time learning and doing new things,</h3>
-            <h3>I found my passion in coding and want to learn more and more!</h3>
-            <h3>I wish to become a great web developer one day.</h3>
+            <h4>After spending time learning and doing new things,</h4>
+            <h4>I found my passion in UX/UI design and want to learn more about it!</h4>
+            <h4>I wish to become a great UX/UI designer one day.</h4>
             <br></br>
             <hr className="hr-style"></hr>
          </div>

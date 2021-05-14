@@ -18,7 +18,7 @@ export default function WhatIDo(){
                      To visit my instagram art account <a href="https://www.instagram.com/alli.gather/" target="_blank" rel="noreferrer">here.</a></p>
                      
                      <p>To leverage this skill, I'm learning more about design and their tools to achieve knowledge about UX/UI design.</p>
-                     <p><strong>Program: </strong>PS, AI, Affinity Designer, Procreate</p>
+                     <p><strong>Program: </strong>Adobe Photoshop, Adobe Illustrator, Adobe XD, Affinity Designer, Procreate,</p>
                 </div>
                     
 
