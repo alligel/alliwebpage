@@ -5,7 +5,7 @@ import A07 from "./img/A07.jpg";
 
 export default function AboutMe(){
     return (
-    <div className="top-container">
+    <div>
     <div className="about-container">
          <div>
             <h1  id="aboutme">About Me</h1>
