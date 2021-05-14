@@ -10,8 +10,8 @@ export default function FirstPage() {
 <div class="top-container">
     <div>
         <NavBar />
-        <h1 id="nameText">Alli</h1>
-        <img alt="splash" className="splash-bg" src={Splash}/>
+        <h1 className="nameText">Alli</h1>
+        <img id="home" alt="splash" className="splash-bg" src={Splash}/>
     </div>
 
     <div className="about-container">
