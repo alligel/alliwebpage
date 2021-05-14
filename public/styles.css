@@ -5,7 +5,7 @@ body {
 /* splash */
 .splash-container {
   position: relative;
-  margin-top: 5px;
+  margin: 0px;
 }
 .splash-bg {
   margin-top: 5px;
