@@ -2,6 +2,13 @@ body {
   margin: 0px;
   font-family: "Roboto", sans-serif;
 }
+/* splash */
+.birdsplash {
+  width: 20%;
+}
+.splashbg {
+  background-color: rgb(25, 25, 25);
+}
 /* body scrollbar */
 body::-webkit-scrollbar {
   width: 6px;
