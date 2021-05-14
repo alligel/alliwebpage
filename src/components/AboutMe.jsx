@@ -1,12 +1,12 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.css';
 import Profileimg from "./Profileimg.JPG";
-import A07 from "./img/A07.jpg";
+
 
 export default function AboutMe(){
     return (
     <div>
-    <div className="about-container">
+         {/* profile */}
          <div>
             <h1  id="aboutme">About Me</h1>
             <img alt="myprofile" className="profilepic" src={Profileimg}/>
@@ -19,7 +19,7 @@ export default function AboutMe(){
             <hr className="hr-style"></hr>
          </div>
 
-         {/* colomn education */}
+         {/* education */}
 
          <div class="grid-container">
 
@@ -34,6 +34,7 @@ export default function AboutMe(){
 
             </div>
 
+         {/* courses */}
             <div class="grid-child">
             <h2>Courses</h2>
             <br/>
@@ -52,8 +53,6 @@ export default function AboutMe(){
 
         </div>
 
-    </div>
-    <img alt="foxbg" className="image-bg" src={A07}/>
     </div>
     );
   }
