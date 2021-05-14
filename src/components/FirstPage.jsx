@@ -1,5 +1,6 @@
 import React from "react";
 import A07 from "./img/A07.jpg";
+import Splash from "./img/Splash.jpg";
 import NavBar from "./NavBar"
 import AboutMe from "./AboutMe"
 
@@ -10,6 +11,7 @@ export default function FirstPage() {
     <div>
         <NavBar />
         <h1 className="nameText">Alli</h1>
+        <img alt="splash" className="image-bg" src={Splash}/>
     </div>
 
     <div className="about-container">
