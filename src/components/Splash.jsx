@@ -4,7 +4,7 @@ import SplashwithText from "./img/SplashwithText.jpg";
 import NavBar from "./NavBar"
 import AboutMe from "./AboutMe"
 
-export default function SplashAndAboutMe() {
+export default function Splash() {
   
   return (
 <div>
@@ -18,12 +18,12 @@ export default function SplashAndAboutMe() {
     </div>
 </div>
 
-<div className="top-container">
+{/* <div className="top-container">
     <div className="about-container">
         <AboutMe />
     </div>
         <img alt="foxbg" className="image-bg" src={A07}/>
-</div>
+</div> */}
 
 </div>
   );
