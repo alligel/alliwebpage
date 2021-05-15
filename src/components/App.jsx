@@ -11,18 +11,18 @@ class App extends Component {
       return (
           
             <div>
-                <div>
+                <section>
                     <SplashAboutme />
-                 </div>
-                 <div>
+                 </section>
+                 <section>
                     <WhatIDo />
-                 </div>
-                 <div>
+                 </section>
+                 <section>
                     <Works />
-                 </div>
-                 <div>
+                 </section>
+                 <section>
                     <Footer />
-                 </div>
+                 </section>
 
             </div>
               );

@@ -95,7 +95,6 @@ a:link {
 /* splash */
 .splash-container {
   position: relative;
-  margin: 0px;
   background-color: rgb(25, 25, 25);
 }
 .splash-innerline {
