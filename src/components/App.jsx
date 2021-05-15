@@ -1,10 +1,9 @@
 import React, { Component } from "react";
-import Splash from "./Splash";
+import SplashAboutme from "./SplashAboutme";
 import Footer from "./Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import WhatIDo from "./WhatIDo";
 import Works from "./Works"
-import AboutMe from "./AboutMe";
 
 
 class App extends Component {
@@ -13,10 +12,7 @@ class App extends Component {
           
             <div>
                 <div>
-                    <Splash />
-                 </div>
-                 <div>
-                    <AboutMe />
+                    <SplashAboutme />
                  </div>
                  <div>
                     <WhatIDo />
