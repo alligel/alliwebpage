@@ -2,17 +2,6 @@ body {
   margin: 0px;
   font-family: "Roboto", sans-serif;
 }
-
-/* .nameText {
-  color: white;
-  font-family: "Hammersmith One", sans-serif;
-  font-size: 5.6rem;
-  font-weight: bold;
-  position: absolute;
-  top: 20%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
 /* body scrollbar */
 body::-webkit-scrollbar {
   width: 6px;
@@ -95,11 +84,14 @@ a:link {
 /* splash */
 .splash-bg {
   width: 100%;
-  height: fit-content;
   background-color: rgb(25, 25, 25);
 }
 .splash-bird {
   width: 100%;
+}
+.slash-line {
+  padding: 25px;
+  border: white solid 2px;
 }
 /* Home Page */
 .top-container {
@@ -292,7 +284,7 @@ a:link {
   }
   .splash-bird {
     width: 100%;
-    margin-top: 20%;
+    margin-top: 15%;
   }
   /* Aboutme */
   .about-container {
