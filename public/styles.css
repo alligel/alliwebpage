@@ -93,17 +93,11 @@ a:link {
   font-family: "Hammersmith One", sans-serif;
 }
 /* splash */
-.splash-container {
-  background-color: rgb(25, 25, 25);
-}
+
 .splash-bg {
   width: 100%;
   background-size: cover;
   position: absolute;
-}
-.splash-innerline {
-  padding: 30px;
-  border: white solid 1rem;
 }
 /* Home Page */
 .top-container {
