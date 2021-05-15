@@ -15,8 +15,8 @@ export default function SplashAboutme() {
         <NavBar />
     </div>
     <div className="splash-container"></div>
-    <div className="splash-innerline"></div>
         <img id="home" alt="splash" className="splash-bg" src={SplashNobg}/>
+        <div className="splash-innerline"></div>
 </div>
 
 <div className="top-container">
