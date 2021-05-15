@@ -89,11 +89,6 @@ a:link {
 .splash-bird {
   width: 100%;
 }
-.splash-line {
-  padding: 30px;
-  background-color: transparent;
-  border: solid white 3px;
-}
 /* Home Page */
 .top-container {
   position: relative;
