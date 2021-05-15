@@ -1,6 +1,7 @@
 import React from "react";
 import A07 from "./img/A07.jpg";
 import SplashwithText from "./img/SplashwithText.jpg";
+import SplashNobg from "./img/SplashNobg.png";
 import NavBar from "./NavBar"
 import AboutMe from "./AboutMe"
 
@@ -12,7 +13,8 @@ export default function SplashAboutme() {
 <div>
     <div>
         <NavBar />
-        <img id="home" alt="splash" className="splash-bg" src={SplashwithText}/>
+        <div id="home" className="splash-bg"></div>
+        <img alt="bird" className="splash-bird" src={SplashNobg}/>
     </div>
         
 </div>
