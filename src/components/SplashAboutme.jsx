@@ -12,8 +12,9 @@ export default function SplashAboutme() {
 <div>
     <div>
         <NavBar />
-    </div>
         <img id="home" alt="splash" className="splash-bg" src={SplashwithText}/>
+    </div>
+        
 </div>
 
 <div className="top-container">
