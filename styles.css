@@ -96,14 +96,14 @@ a:link {
 .splash-container {
   background-color: rgb(25, 25, 25);
 }
-.splash-innerline {
-  padding: 30px;
-  border: white solid 1rem;
-}
 .splash-bg {
   width: 100%;
   background-size: cover;
   position: absolute;
+}
+.splash-innerline {
+  padding: 30px;
+  border: white solid 1rem;
 }
 /* Home Page */
 .top-container {
