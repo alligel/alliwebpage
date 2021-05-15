@@ -95,6 +95,7 @@ a:link {
 /* splash */
 .splash-bg {
   width: 100%;
+  height: fit-content;
   background-color: rgb(25, 25, 25);
 }
 .splash-bird {
@@ -285,9 +286,13 @@ a:link {
   h4 {
     font-size: 20px !important;
   }
-  .nameText {
-    font-size: 30px !important;
-    top: 10%;
+  /* splash */
+  .splash-bg {
+    height: 700px;
+  }
+  .splash-bird {
+    width: 100%;
+    margin-top: 20%;
   }
   /* Aboutme */
   .about-container {
