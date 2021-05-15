@@ -1,6 +1,5 @@
 import React from "react";
 import A07 from "./img/A07.jpg";
-import SplashwithText from "./img/SplashwithText.jpg";
 import SplashNobg from "./img/SplashNobg.png";
 import NavBar from "./NavBar"
 import AboutMe from "./AboutMe"
