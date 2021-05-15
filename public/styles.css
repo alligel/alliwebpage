@@ -99,6 +99,7 @@ a:link {
 }
 .splash-bird {
   position: absolute;
+  width: 100%;
 }
 /* Home Page */
 .top-container {

@@ -13,8 +13,9 @@ export default function SplashAboutme() {
 <div>
     <div>
         <NavBar />
-        <div id="home" className="splash-bg"></div>
+        <div id="home" className="splash-bg">
         <img alt="bird" className="splash-bird" src={SplashNobg}/>
+        </div>
     </div>
         
 </div>
