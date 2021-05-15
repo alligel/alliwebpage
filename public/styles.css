@@ -2,16 +2,7 @@ body {
   margin: 0px;
   font-family: "Roboto", sans-serif;
 }
-/* splash */
-.splash-container {
-  position: relative;
-  margin: 0px;
-  background-color: rgb(25, 25, 25);
-}
-.splash-bg {
-  width: 100%;
-  background-size: cover;
-}
+
 /* .nameText {
   color: white;
   font-family: "Hammersmith One", sans-serif;
@@ -101,7 +92,17 @@ a:link {
   font-size: 1.2rem;
   font-family: "Hammersmith One", sans-serif;
 }
-
+/* splash */
+.splash-container {
+  position: relative;
+  margin: 0px;
+  color: rgb(25, 25, 25);
+}
+.splash-bg {
+  width: 100%;
+  background-size: cover;
+  background-color: rgb(25, 25, 25);
+}
 /* Home Page */
 .top-container {
   position: relative;
@@ -118,7 +119,7 @@ a:link {
   padding: 100px 20px 0px;
   width: 85%;
   left: 50%;
-  top: 70%;
+  top: 60%;
   transform: translate(-50%, -50%);
   background-color: white;
   justify-content: center;
