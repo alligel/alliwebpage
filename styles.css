@@ -90,7 +90,8 @@ a:link {
   width: 100%;
 }
 .splash-line {
-  padding: 25px;
+  padding: 30px;
+  background-color: transparent;
   border: solid white 3px;
 }
 /* Home Page */
