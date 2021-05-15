@@ -94,7 +94,6 @@ a:link {
 }
 /* splash */
 .splash-container {
-  position: relative;
   background-color: rgb(25, 25, 25);
 }
 .splash-innerline {
@@ -104,6 +103,7 @@ a:link {
 .splash-bg {
   width: 100%;
   background-size: cover;
+  position: absolute;
 }
 /* Home Page */
 .top-container {
