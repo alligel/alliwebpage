@@ -38,7 +38,7 @@ export default function Works(){
             {/* tap content */}
                 <div class="tab-content h-75">
                     <div className="tab-pane h-100 p-3 active border border-info" id="UX" role="tabpanel" aria-labelledby="UX-tab"><UXWorks /></div>
-                    <div className="tab-pane h-100 p-3 active border border-secondary" id="artworks" role="tabpanel" aria-labelledby="artworks-tab"><ArtWorks /></div>
+                    <div className="tab-pane h-100 p-3 border border-secondary" id="artworks" role="tabpanel" aria-labelledby="artworks-tab"><ArtWorks /></div>
                     <div className="tab-pane h-100 p-3 border border-warning" id="codingworks" role="tabpanel" aria-labelledby="codingworks-tab"><CodingWorks /></div>
                     <div className="tab-pane h-100 p-3 border border-danger" id="photoworks" role="tabpanel" aria-labelledby="photoworks-tab"><PhotoWorks /></div>
                 </div>
