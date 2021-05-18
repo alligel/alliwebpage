@@ -71,6 +71,12 @@ a:link {
   color: #e07a5f;
 }
 
+/* button link */
+.btn-link {
+  background-color: white;
+  border: 2px solid #e07a5f;
+}
+
 /* Navbar */
 .navbar-brand {
   font-family: "Hammersmith One", sans-serif;
@@ -183,6 +189,12 @@ a:link {
   padding: 10px 5px;
   margin-left: auto;
   margin-right: auto;
+}
+
+/* UXworks */
+.ux-img {
+  width: 100%;
+  height: auto;
 }
 /* Artworks */
 .works-img {
@@ -299,7 +311,7 @@ a:link {
     font-size: 16px;
   }
   .scrollbar {
-    max-height: 60px;
+    max-height: 150px;
     overflow-y: scroll;
   }
 
