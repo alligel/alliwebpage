@@ -1,5 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.css';
+import UXWorks from "./UXWorks";
 import ArtWorks from "./ArtWorks";
 import PhotoWorks from "./PhotoWorks";
 import CodingWorks from "./CodingWorks";
@@ -16,6 +17,9 @@ export default function Works(){
             <div className="container h-100 py-2 ">
             {/* tab list */}
               <ul className="nav nav-tabs border-0 justify-content-center" id="myTab" role="tablist">
+              <li className="nav-item">
+                    <a className="nav-link active border border-info border-bottom-0" id="UX-tab" data-toggle="tab" href="#UX" role="tab" aria-controls="UX" aria-selected="true">UX</a>
+                </li>
                  <li className="nav-item">
                     <a className="nav-link active border border-secondary border-bottom-0" id="artworks-tab" data-toggle="tab" href="#artworks" role="tab" aria-controls="artworks" aria-selected="true">Art Works</a>
                 </li>
@@ -28,6 +32,7 @@ export default function Works(){
              </ul>
             {/* tap content */}
                 <div class="tab-content h-75">
+                    <div className="tab-pane h-100 p-3 active border border-info" id="UX" role="tabpanel" aria-labelledby="UX-tab"><UXWorks /></div>
                     <div className="tab-pane h-100 p-3 active border border-secondary" id="artworks" role="tabpanel" aria-labelledby="artworks-tab"><ArtWorks /></div>
                     <div className="tab-pane h-100 p-3 border border-warning" id="codingworks" role="tabpanel" aria-labelledby="codingworks-tab"><CodingWorks /></div>
                     <div className="tab-pane h-100 p-3 border border-danger" id="photoworks" role="tabpanel" aria-labelledby="photoworks-tab"><PhotoWorks /></div>
