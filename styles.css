@@ -341,6 +341,10 @@ a:link {
   h4 {
     font-size: 15px !important;
   }
+  /* splash */
+  .splash-bg {
+    height: 600px;
+  }
   /* Aboutme */
   .about-container {
     padding: 10px 5px;
