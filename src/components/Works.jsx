@@ -17,18 +17,23 @@ export default function Works(){
             <div className="container h-100 py-2 ">
             {/* tab list */}
               <ul className="nav nav-tabs border-0 justify-content-center" id="myTab" role="tablist">
-              <li className="nav-item">
+                
+                <li className="nav-item">
                     <a className="nav-link active border border-info border-bottom-0" id="UX-tab" data-toggle="tab" href="#UX" role="tab" aria-controls="UX" aria-selected="true">UX</a>
                 </li>
+
                  <li className="nav-item">
-                    <a className="nav-link active border border-secondary border-bottom-0" id="artworks-tab" data-toggle="tab" href="#artworks" role="tab" aria-controls="artworks" aria-selected="true">Art Works</a>
+                    <a className="nav-link active border border-secondary border-bottom-0" id="artworks-tab" data-toggle="tab" href="#artworks" role="tab" aria-controls="artworks" aria-selected="false">Art Works</a>
                 </li>
+
                 <li className="nav-item">
                      <a className="nav-link border border-warning border-bottom-0" id="codingworks-tab" data-toggle="tab" href="#codingworks" role="tab" aria-controls="codingworks" aria-selected="false">Coding</a>
                 </li>
+
                 <li className="nav-item">
                      <a className="nav-link border border-danger border-bottom-0" id="photoworks-tab" data-toggle="tab" href="#photoworks" role="tab" aria-controls="photoworks" aria-selected="false">Photography</a>
                  </li> 
+
              </ul>
             {/* tap content */}
                 <div class="tab-content h-75">
