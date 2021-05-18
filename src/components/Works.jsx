@@ -23,7 +23,7 @@ export default function Works(){
                 </li>
 
                  <li className="nav-item">
-                    <a className="nav-link active border border-secondary border-bottom-0" id="artworks-tab" data-toggle="tab" href="#artworks" role="tab" aria-controls="artworks" aria-selected="false">Art Works</a>
+                    <a className="nav-link border border-secondary border-bottom-0" id="artworks-tab" data-toggle="tab" href="#artworks" role="tab" aria-controls="artworks" aria-selected="false">Art Works</a>
                 </li>
 
                 <li className="nav-item">
