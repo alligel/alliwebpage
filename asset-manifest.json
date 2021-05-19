@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/alliwebpage/static/js/main.be76ebc3.chunk.js",
-    "main.js.map": "/alliwebpage/static/js/main.be76ebc3.chunk.js.map",
+    "main.js": "/alliwebpage/static/js/main.b0df0435.chunk.js",
+    "main.js.map": "/alliwebpage/static/js/main.b0df0435.chunk.js.map",
     "runtime-main.js": "/alliwebpage/static/js/runtime-main.acb6d670.js",
     "runtime-main.js.map": "/alliwebpage/static/js/runtime-main.acb6d670.js.map",
     "static/css/2.184f8ef6.chunk.css": "/alliwebpage/static/css/2.184f8ef6.chunk.css",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.acb6d670.js",
     "static/css/2.184f8ef6.chunk.css",
     "static/js/2.725dd8d6.chunk.js",
-    "static/js/main.be76ebc3.chunk.js"
+    "static/js/main.b0df0435.chunk.js"
   ]
 }
