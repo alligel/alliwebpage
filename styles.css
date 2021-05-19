@@ -328,8 +328,8 @@ a:link {
   }
   /* Works */
   .works-img {
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 200px;
+    max-height: 200px;
   }
   .white-container2 {
     padding: 0px 20px;
