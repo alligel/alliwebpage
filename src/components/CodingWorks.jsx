@@ -4,12 +4,13 @@ function CodingWorks() {
   return (
     <div>
 
-      <div className="text-center">
+      <div className="text-left">
       <br/>
       <p>Here is an example of my coding work, it's an one of the 
       challenge from a Bootcamp. <button className="btn-link"><a href="https://alligel.github.io/simongame/" target="_blank">click</a></button></p>
       <br/>
       <p>Throughout my learning, I've learned things that essential for Front-End and Back-End Web Development.</p>
+      </div>
       <div className="row justify-content-center ">
       <div className="col-lg-4 col-md-4 text-center row-coding">
           <br/>
@@ -56,7 +57,7 @@ function CodingWorks() {
 
 
 
-      </div>
+      
       
     </div>
   );
